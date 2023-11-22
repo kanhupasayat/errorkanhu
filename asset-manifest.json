@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/errorkanhu/static/css/main.0bf59700.css",
-    "main.js": "/errorkanhu/static/js/main.fb170e41.js",
-    "static/media/video5.mp4": "/errorkanhu/static/media/video5.cf817e706ab919e4c3b5.mp4",
-    "static/media/video3.mp4": "/errorkanhu/static/media/video3.94948a057a5fb20d483c.mp4",
-    "static/media/video6.mp4": "/errorkanhu/static/media/video6.785645e2f6b91aa794da.mp4",
-    "static/media/video1.mp4": "/errorkanhu/static/media/video1.bcdb38bbb984f7fb54eb.mp4",
-    "static/media/Img1.jpg": "/errorkanhu/static/media/Img1.7568947264cb5b8206b4.jpg",
-    "static/media/video4.mp4": "/errorkanhu/static/media/video4.ed5de453306b9056eaef.mp4",
-    "static/media/video2.mp4": "/errorkanhu/static/media/video2.84f013581ab95d44ca23.mp4",
-    "static/media/Img.jpg": "/errorkanhu/static/media/Img.caf50c452cd9e57004c7.jpg",
-    "static/media/Re.png": "/errorkanhu/static/media/Re.4127b36258b5e9dc8f88.png",
-    "static/media/Python.png": "/errorkanhu/static/media/Python.6a5cbc319ab3ddf8ef92.png",
-    "static/media/Database.png": "/errorkanhu/static/media/Database.96af83e68e3b32fb2dd7.png",
-    "static/media/Django.png": "/errorkanhu/static/media/Django.559d0c6161a6fb950f02.png",
-    "static/media/Htt.png": "/errorkanhu/static/media/Htt.cfb2ba4a6b1c3de295bc.png",
-    "static/media/Boot.png": "/errorkanhu/static/media/Boot.268c4375260420e8d982.png",
-    "static/media/css.png": "/errorkanhu/static/media/css.4a6549b8c2b4cda8bb88.png",
-    "static/media/js.png": "/errorkanhu/static/media/js.3dfb665e058d08c99f28.png",
-    "index.html": "/errorkanhu/index.html",
-    "main.0bf59700.css.map": "/errorkanhu/static/css/main.0bf59700.css.map",
-    "main.fb170e41.js.map": "/errorkanhu/static/js/main.fb170e41.js.map"
+    "main.css": "/kanhuport/static/css/main.0bf59700.css",
+    "main.js": "/kanhuport/static/js/main.6e59770c.js",
+    "static/media/video5.mp4": "/kanhuport/static/media/video5.cf817e706ab919e4c3b5.mp4",
+    "static/media/video3.mp4": "/kanhuport/static/media/video3.94948a057a5fb20d483c.mp4",
+    "static/media/video6.mp4": "/kanhuport/static/media/video6.785645e2f6b91aa794da.mp4",
+    "static/media/video1.mp4": "/kanhuport/static/media/video1.bcdb38bbb984f7fb54eb.mp4",
+    "static/media/Img1.jpg": "/kanhuport/static/media/Img1.7568947264cb5b8206b4.jpg",
+    "static/media/video4.mp4": "/kanhuport/static/media/video4.ed5de453306b9056eaef.mp4",
+    "static/media/video2.mp4": "/kanhuport/static/media/video2.84f013581ab95d44ca23.mp4",
+    "static/media/Img.jpg": "/kanhuport/static/media/Img.caf50c452cd9e57004c7.jpg",
+    "static/media/Re.png": "/kanhuport/static/media/Re.4127b36258b5e9dc8f88.png",
+    "static/media/Python.png": "/kanhuport/static/media/Python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/Database.png": "/kanhuport/static/media/Database.96af83e68e3b32fb2dd7.png",
+    "static/media/Django.png": "/kanhuport/static/media/Django.559d0c6161a6fb950f02.png",
+    "static/media/Htt.png": "/kanhuport/static/media/Htt.cfb2ba4a6b1c3de295bc.png",
+    "static/media/Boot.png": "/kanhuport/static/media/Boot.268c4375260420e8d982.png",
+    "static/media/css.png": "/kanhuport/static/media/css.4a6549b8c2b4cda8bb88.png",
+    "static/media/js.png": "/kanhuport/static/media/js.3dfb665e058d08c99f28.png",
+    "index.html": "/kanhuport/index.html",
+    "main.0bf59700.css.map": "/kanhuport/static/css/main.0bf59700.css.map",
+    "main.6e59770c.js.map": "/kanhuport/static/js/main.6e59770c.js.map"
   },
   "entrypoints": [
     "static/css/main.0bf59700.css",
-    "static/js/main.fb170e41.js"
+    "static/js/main.6e59770c.js"
   ]
 }
